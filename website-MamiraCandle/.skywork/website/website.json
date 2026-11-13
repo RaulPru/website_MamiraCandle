@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "kind": "websiteBinding",
+  "website_id": "01a1d537-0ea6-75a9-88b5-2918260f1746",
+  "source_dir": ".",
+  "source_type": "static-html",
+  "framework": "plain-html",
+  "manifest_path": ".skywork/website.json",
+  "authority": "bindingHint"
+}

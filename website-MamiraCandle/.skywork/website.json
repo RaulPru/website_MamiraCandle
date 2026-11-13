@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 5,
+  "manifestSchemaVersion": "website-manifest-v5",
+  "verifyContractVersion": "website-verify-local-v4",
+  "kind": "website",
+  "websiteId": "01a1d537-0ea6-75a9-88b5-2918260f1746",
+  "projectType": "staticHtml",
+  "layout": "staticHtml",
+  "template": {
+    "id": "static-html",
+    "version": "builtin-v2"
+  },
+  "build": {
+    "command": null,
+    "distDir": "dist"
+  },
+  "backend": {
+    "enabled": false
+  },
+  "deployment": {},
+  "capabilities": {},
+  "backendBaseline": {},
+  "repository": {
+    "initId": "db88e6ac-1f13-40c4-a649-988a36e94159",
+    "state": "active",
+    "repositoryId": 299644,
+    "owner": "prod_1874144515003234850",
+    "name": "01a1d537-0ea6-75a9-88b5-2918260f1746",
+    "host": "gitea.skywork.ai",
+    "webUrl": "https://gitea.skywork.ai/prod_1874144515003234850/01a1d537-0ea6-75a9-88b5-2918260f1746",
+    "sshUrl": "ssh://git@gitea.skywork.ai/prod_1874144515003234850/01a1d537-0ea6-75a9-88b5-2918260f1746.git",
+    "cloneUrl": "https://gitea.skywork.ai/prod_1874144515003234850/01a1d537-0ea6-75a9-88b5-2918260f1746.git",
+    "initialCommitId": "af3e43e661ab2f6d75289c6974f5abb441719db7"
+  },
+  "routeInventory": {},
+  "receipt": {
+    "status": "active",
+    "activeReceiptDigest": "deb30650c3bf1894628e39ea29fcd952b18c0f31f57746dbf13aa26b9fc5faca"
+  }
+}

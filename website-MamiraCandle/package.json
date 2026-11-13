@@ -1,0 +1,1 @@
+{"name":"skywork-static-html","private":true,"scripts":{"dev":"node .skywork/static-server.cjs"}}
